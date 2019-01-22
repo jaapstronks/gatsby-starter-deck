@@ -10,7 +10,7 @@ Dat is handig: fraaie presentaties met Gatsby & React. Maar swipen werkt niet le
 ---
 
 # En je kunt beter samenwerken:
-[![Samen typen op een toetsenbord, dat hackt dubbel zo snel](https://i.imgur.com/cQrrznt.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ)
+[![Samen typen op een toetsenbord, dat hackt dubbel zo snel](https://i.imgur.com/cQrrznt.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ&t=0m15s)
 [Volgende](/4)
 
 ---
