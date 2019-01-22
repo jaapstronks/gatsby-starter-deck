@@ -9,8 +9,9 @@ Dat is handig: fraaie presentaties met Gatsby & React. Gebruik je spatiebalk.
 
 ---
 
-# 🤫
+# En je kunt beter samenwerken
 
+[![](https://i.imgur.com/aeyaxlQ.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ)
 
 ---
 
