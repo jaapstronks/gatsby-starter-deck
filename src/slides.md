@@ -1,6 +1,6 @@
 # Gatsby Deck
 
-Dat is handig: fraaie presentaties met Gatsby & React. Gebruik je spatiebalk.
+Dat is handig: fraaie presentaties met Gatsby & React. Maar swipen werkt niet lekker, dus gebruik je spatiebalk op je laptop. Ja, of [klik hier](/2) voor de volgende slide.p
 
 ---
 
