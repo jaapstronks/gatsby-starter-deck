@@ -1,16 +1,17 @@
 # Gatsby Deck
 
-Dat is handig: fraaie presentaties met Gatsby & React. Maar swipen werkt niet lekker, dus gebruik je spatiebalk op je laptop. Ja, of [klik hier](/2) voor de volgende slide.p
+Dat is handig: fraaie presentaties met Gatsby & React. Maar swipen werkt niet lekker, dus gebruik je spatiebalk op je laptop. Ja, of [klik hier](/2) voor de volgende slide.
 
 ---
 
-> Markdown is gewoon de bom. Omdat het plaintext is, is het automatiseerbaar en programmeerbaar. Dus ga je geen verhalen in logge presentatie-programma's opsluiten. Sowieso kun je qua Keynote niks met iOS Shortcuts beginnen dus dan houdt het op hoor.
+> Markdown is gewoon de bom. Omdat het plaintext is, is het automatiseerbaar en programmeerbaar. Dus ga je geen verhalen in logge presentatie-programma's opsluiten. Sowieso kun je qua Keynote niks met iOS Shortcuts beginnen dus dan houdt het op hoor. [NEXT](/3)
 > <cite>M. Arkdown</cite>
 
 ---
 
 # En je kunt beter samenwerken:
-[![](https://i.imgur.com/cQrrznt.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ)
+[![Samen typen op een toetsenbord, dat hackt dubbel zo snel](https://i.imgur.com/cQrrznt.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ)
+[Volgende](/4)
 
 ---
 
