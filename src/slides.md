@@ -1,14 +1,11 @@
 # Gatsby Deck
 
-Create presentations using Gatsby & React.
+Dat is handig: fraaie presentaties met Gatsby & React.
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research 
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+> Markdown is gewoon de bom weet je. Omdat het plaintext is, is het automatiseerbaar en programmeerbaar. Content kan alle kanten op gestuurd worden. Dus ga je geen content in logge presentatie-programma's opsluiten. Sowieso kun je qua Keynote niks met iOS Shortcuts beginnen dus tja, dan houdt het op hoor.
+> <cite>M. Arkdown</cite>
 
 ---
 
@@ -16,7 +13,7 @@ Create presentations using Gatsby & React.
 
 ---
 
-## Slides are written in Markdown!
+## Slides schrijven we in Markdownd!
 
 Here's the source of the first slide:
 
