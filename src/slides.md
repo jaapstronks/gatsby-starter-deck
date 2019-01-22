@@ -18,7 +18,7 @@ Dat is handig: fraaie presentaties met Gatsby & React. Maar swipen werkt niet le
 
 ![Monkey](//i.imgur.com/PnbINJ6.gif)
 
-🌟 Geef het een sterretje op [GitHub](//github.com/fabe/gatsby-deck),  
+🌟 Wij zijn fan. Geef het een sterretje op [GitHub](//github.com/fabe/gatsby-deck),  
 of maak er zelf een met:
 
     gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
