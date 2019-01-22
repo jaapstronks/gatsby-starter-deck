@@ -9,9 +9,8 @@ Dat is handig: fraaie presentaties met Gatsby & React. Gebruik je spatiebalk.
 
 ---
 
-# En je kunt beter samenwerken
-
-[![Met twee mensen type je tweemaal zo snel](https://i.imgur.com/aeyaxlQ.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ)
+# En je kunt beter samenwerken:
+[![](https://i.imgur.com/cQrrznt.jpg)](https://m.youtube.com/watch?v=u8qgehH3kEQ)
 
 ---
 
